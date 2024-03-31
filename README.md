@@ -10,8 +10,8 @@ I'm the kind of Site Reliability & Platform Engineer who believes in the power o
 ## 🛠 Skills
 - **Cloud Platforms**: AWS, GCP, Azure, OVH
 - **Containerization & Orchestration**: Kubernetes, Docker, Rancher
-- **CI/CD & Configuration Management**: GitLab CI/CD, Terraform, Helm, ArgoCD
-- **Infrastructure as Code & Management**: Crossplane
+- **CI/CD & Configuration Management**: GitLab CI/CD, Helm, ArgoCD
+- **Infrastructure as Code & Management**: Crossplane, Terraform, CDK8S
 - **Programming**: Python, Golang, Bash Scripting
 - **Monitoring & Logging**: Prometheus, Grafana, Loki
 - **Secret Management**: Vault
