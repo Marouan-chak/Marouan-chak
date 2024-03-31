@@ -21,7 +21,7 @@ I'm the kind of Site Reliability & Platform Engineer who believes in the power o
 ![Marouan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouan-chak&include_all_commits=true&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-- 📫 How to reach me: marpouane.chakran@gmail.com
+- 📫 How to reach me: marouane.chakran@gmail.com
 - 💼 LinkedIn: [Marouan Chakran](https://www.linkedin.com/in/marouan-chakran/)
 - 🌐 Add me on LinkedIn to discuss.
 
